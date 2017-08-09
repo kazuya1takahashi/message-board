@@ -1,0 +1,8 @@
+ja:
+  activerecord:
+    models:
+      message: 
+    attributes:
+      message:
+        title: タイトル
+        content: メッセージ
