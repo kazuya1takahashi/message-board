@@ -12,6 +12,7 @@ Rails.application.routes.draw do
 
   resources :messages
   
+  # User非ログイン時
   root 'pages#index'
   
 end
