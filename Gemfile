@@ -74,3 +74,8 @@ group :development, :test do
   gem 'pry-stack_explorer' # スタックをたどれる
 end
 
+# Devise
+gem 'devise'
+gem 'omniauth-twitter'
+
+
